@@ -2,6 +2,6 @@ For 200
 
 For 400
 
-For 403
+For 403 null token
 
-For 500
+For 403 invalid token
