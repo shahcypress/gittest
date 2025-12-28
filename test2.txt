@@ -5,3 +5,5 @@ For 400
 For 403
 
 For 500
+
+For 403 WSAPI
