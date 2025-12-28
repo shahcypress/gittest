@@ -5,3 +5,5 @@ For 400
 For 403 null token
 
 For 403 invalid token
+
+For 403 WSAPI
